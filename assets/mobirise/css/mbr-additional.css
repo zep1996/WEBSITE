@@ -728,7 +728,7 @@ section.lazy-placeholder:after {
 .cid-rDrtFAR0bC {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/-20200118143610-2000x1500.jpeg");
 }
 .cid-rDrtFAR0bC h3 {
   text-align: center;
@@ -738,10 +738,7 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-rDrtFAR0bC .mbr-content-text {
-  color: #767676;
-}
-.cid-rDrtFAR0bC .panel-item {
-  background: #ffffff;
+  color: #232323;
 }
 .cid-rDrtFAR0bC .card {
   word-wrap: break-word;
@@ -750,10 +747,13 @@ section.lazy-placeholder:after {
   font-size: 80px;
   color: #149dcc;
 }
+.cid-rDrtFAR0bC H3 {
+  color: #232323;
+}
 .cid-rDrvduOvzB {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
 }
 .cid-rDrvduOvzB .counter-container {
   color: #767676;
@@ -785,24 +785,23 @@ section.lazy-placeholder:after {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  border-radius: 0;
 }
 .cid-rDrvduOvzB .mbr-text {
   text-align: left;
 }
 .cid-rDrvYtxBZ8 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #d8dddf;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/tree-838667-1280.webp-1280x852.jpg");
 }
 .cid-rDrvYtxBZ8 .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   text-align: center;
   font-weight: 300;
 }
 .cid-rDrvYtxBZ8 .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #efefef;
   margin-left: 2rem;
 }
 .cid-rDrvYtxBZ8 .timeline-text-content p {
@@ -813,7 +812,7 @@ section.lazy-placeholder:after {
 }
 .cid-rDrvYtxBZ8 .time-line-date-content p {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #efefef;
   float: right;
 }
 .cid-rDrvYtxBZ8 .timeline-element {
@@ -862,7 +861,7 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   font-size: 30px;
   display: inline-block;
-  background-color: #ffffff;
+  background-color: #efefef;
   top: 20px;
   margin-left: -10px;
 }
@@ -872,7 +871,7 @@ section.lazy-placeholder:after {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #ffffff;
+  background-color: #efefef;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -906,13 +905,16 @@ section.lazy-placeholder:after {
 .cid-rDrvYtxBZ8 .mbr-timeline-title {
   text-align: left;
 }
+.cid-rDrvYtxBZ8 .mbr-timeline-text {
+  color: #767676;
+}
 .cid-rDrzdMrrY7 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/air-bubbles-230014-1280.webp-1280x960.jpg");
 }
 .cid-rDrzdMrrY7 .mbr-text {
-  color: #767676;
+  color: #232323;
   margin: 0;
   padding-top: 1.5rem;
 }
